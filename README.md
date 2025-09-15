@@ -4,7 +4,6 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5f5f.svg)](https://ko-fi.com/youtomp)
 
-
 **PT-BR 🇧🇷**
 
 **YouToMP** é um aplicativo **gratuito e leve** para converter vídeos do YouTube em **MP3** e **MP4** com a melhor qualidade possível.  
@@ -19,6 +18,9 @@ Sem anúncios, sem enrolação, sem instaladores — só funciona. 🚀
 ### 📥 Download
 👉 [Baixar YouToMP (Windows .exe)](https://youtomp.com)  
 SHA-256: `A159727D388099664C01E58BE32F89BB33050D4EEDCA3DCAE9E044DC736ED2EC`
+
+### 📦 Releases
+👉 [Baixar versões oficiais](https://github.com/fqsguitar/youtomp/releases)
 
 ### 📸 Screenshot
 ![YouToMP Preview](img/youtomp-preview.png)
@@ -48,6 +50,9 @@ No ads, no fluff, no installers — just works. 🚀
 ### 📥 Download
 👉 [Download YouToMP (Windows .exe)](https://youtomp.com)  
 SHA-256: `A159727D388099664C01E58BE32F89BB33050D4EEDCA3DCAE9E044DC736ED2EC`
+
+### 📦 Releases
+👉 [Download official releases](https://github.com/fqsguitar/youtomp/releases)
 
 ### 📸 Screenshot
 ![YouToMP Preview](img/youtomp-preview.png)
