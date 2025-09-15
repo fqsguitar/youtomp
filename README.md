@@ -16,11 +16,11 @@ Sem anúncios, sem enrolação, sem instaladores — só funciona. 🚀
 - Landing page open source
 
 ### 📥 Download
-👉 [Baixar YouToMP (Windows .exe)](https://youtomp.com)  
+👉 [Baixar última versão (Windows .exe)](https://github.com/fqsguitar/youtomp/releases/latest)  
 SHA-256: `A159727D388099664C01E58BE32F89BB33050D4EEDCA3DCAE9E044DC736ED2EC`
 
 ### 📦 Releases
-👉 [Baixar versões oficiais](https://github.com/fqsguitar/youtomp/releases)
+👉 [Todas as versões oficiais](https://github.com/fqsguitar/youtomp/releases)
 
 ### 📸 Screenshot
 ![YouToMP Preview](img/youtomp-preview.png)
@@ -51,11 +51,11 @@ No ads, no fluff, no installers — just works. 🚀
 - Open source landing page
 
 ### 📥 Download
-👉 [Download YouToMP (Windows .exe)](https://youtomp.com)  
+👉 [Download latest version (Windows .exe)](https://github.com/fqsguitar/youtomp/releases/latest)  
 SHA-256: `A159727D388099664C01E58BE32F89BB33050D4EEDCA3DCAE9E044DC736ED2EC`
 
 ### 📦 Releases
-👉 [Download official releases](https://github.com/fqsguitar/youtomp/releases)
+👉 [All official releases](https://github.com/fqsguitar/youtomp/releases)
 
 ### 📸 Screenshot
 ![YouToMP Preview](img/youtomp-preview.png)
