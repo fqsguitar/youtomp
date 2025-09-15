@@ -25,6 +25,9 @@ SHA-256: `A159727D388099664C01E58BE32F89BB33050D4EEDCA3DCAE9E044DC736ED2EC`
 ### 📸 Screenshot
 ![YouToMP Preview](img/youtomp-preview.png)
 
+### 🌐 Landing Page
+[![Landing Page Preview](img/landing-preview.png)](https://youtomp.com)
+
 ### 💡 Como usar
 1. Baixe o arquivo `.exe` e coloque no seu Desktop.  
 2. Cole um link do YouTube e escolha MP3 ou MP4.  
@@ -56,6 +59,9 @@ SHA-256: `A159727D388099664C01E58BE32F89BB33050D4EEDCA3DCAE9E044DC736ED2EC`
 
 ### 📸 Screenshot
 ![YouToMP Preview](img/youtomp-preview.png)
+
+### 🌐 Landing Page
+[![Landing Page Preview](img/landing-preview.png)](https://youtomp.com)
 
 ### 💡 How to use
 1. Download the `.exe` and place it on your Desktop.  
