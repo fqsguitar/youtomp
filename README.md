@@ -1,5 +1,10 @@
 # 🎵 YouToMP
 
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5f5f.svg)](https://ko-fi.com/youtomp)
+
+
 **PT-BR 🇧🇷**
 
 **YouToMP** é um aplicativo **gratuito e leve** para converter vídeos do YouTube em **MP3** e **MP4** com a melhor qualidade possível.  
