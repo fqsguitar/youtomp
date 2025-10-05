@@ -1,24 +1,35 @@
 @echo off
-cd /d %~dp0
+setlocal
+chcp 65001 >nul
+cd /d "%~dp0"
 
-REM Ativa o venv (se tiver)
-if exist venv39\Scripts\activate.bat (
-    call venv39\Scripts\activate.bat
+if exist "venv39\Scripts\activate.bat" (
+    call "venv39\Scripts\activate.bat"
 )
+
+echo [YouToMP] Finalizando instâncias antigas...
+taskkill /im YouToMP.exe /f >nul 2>&1
+timeout /t 1 /nobreak >nul
+if exist "dist\YouToMP.exe" del /f /q "dist\YouToMP.exe" >nul 2>&1
 
 echo [YouToMP] Iniciando build com PyInstaller...
 
-pyinstaller --noconsole --onefile ^
+pyinstaller --noconsole --onefile --noconfirm --clean ^
   --name YouToMP ^
-  --icon yt_mp3_converter_multi_res.ico ^
+  --icon "yt_mp3_converter_multi_res.ico" ^
   --add-data "yt_mp3_converter_multi_res.ico;." ^
   --add-data "Flags\br.png;Flags" ^
   --add-data "Flags\us.png;Flags" ^
-  --add-binary "yt-dlp.exe;." ^
-  --add-binary "ffmpeg/bin/ffmpeg.exe;ffmpeg/bin" ^
-  --add-binary "ffmpeg/bin/ffprobe.exe;ffmpeg/bin" ^
-  YouToMP3.py
+  --add-binary "bin\yt-dlp.exe;bin" ^
+  --add-binary "bin\ffmpeg.exe;bin" ^
+  --add-binary "bin\ffprobe.exe;bin" ^
+  "YouToMP.py"
 
 echo.
-echo [YouToMP] Build finalizado! O executável está em "dist\YouToMP.exe"
+if exist "dist\YouToMP.exe" (
+  echo [YouToMP] Build finalizado! O executavel esta em "dist\YouToMP.exe"
+) else (
+  echo [YouToMP] Falha no build. Verifique o log acima.
+)
 pause
+endlocal
