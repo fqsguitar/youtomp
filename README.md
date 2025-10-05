@@ -17,7 +17,7 @@ Sem anúncios, sem enrolação, sem instaladores — só funciona. 🚀
 
 ### 📥 Download
 👉 [Baixar última versão (Windows .exe)](https://github.com/fqsguitar/youtomp/releases/latest)  
-SHA-256: `A159727D388099664C01E58BE32F89BB33050D4EEDCA3DCAE9E044DC736ED2EC`
+SHA-256: `08FDB8E1096025A986A252FF6670423B8E6950BF1AF6BD45D6622463BFFCA556`
 
 ### 📦 Releases
 👉 [Todas as versões oficiais](https://github.com/fqsguitar/youtomp/releases)
